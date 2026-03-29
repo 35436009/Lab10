@@ -1,0 +1,51 @@
+ICT283 Assignment 1 Program Evaluation Declaration
+
+  What Works
+
+• All 20 core test cases from the official test plan passed successfully. 
+• Program loads CSV data correctly and handles NA values safely. 
+• Wind mean and sample standard deviation calculations are accurate. 
+• Temperature mean and sample standard deviation calculations are accurate. 
+• Solar radiation totals correctly apply filtering rule (SR >= 100 W/m^2). 
+• Monthly and yearly filtering logic works correctly.
+• Output formatting matches assignment specification (single-line formatwhere required). 
+• CSV file “WindTempSolar.csv” is generated correctlywith proper structure. 
+• If an entire year has no data, program outputs “No Data” as required. 
+• Partial data per field (wind/temp/solar) is handled safely without crashing. 
+• Custom Vector class resizes dynamically without memory leak. 
+• Program compiles without STL containers or , meeting assignment constraints. 
+• Const correctness applied in accessor methods where appropriate. 
+• Modular design allows clear separation between Application, WeatherLog, WeatherRec and UtilityStats. 
+• Validity flags (m_hasSpeed, m_hasSolar, m_hasTemp) correctly handle missing data. 
+• SolarTotal computation correctly converts and aggregates values. 
+• Sample standard deviation formula applied correctly. 
+• No runtime crashes observed during testing. 
+• Memory is released properly in Vector destructor. 
+• Program structure matches submitted UML diagrams.
+
+
+  What Doesn’t Work / Limitations
+
+• Program assumes CSV structure is always correct. It does not validate malformed lines. 
+• User input validation is minimal (non-integer input may cause unexpected behaviour). 
+• No exception handling implemented for file I/O failures. 
+• Vector does not implement bounds checking for operator[]. 
+• Program does not handle extremely large datasets efficiently (resizing is simple doubling strategy). 
+• No logging system for error reporting. 
+• Solar radiation filtering threshold (>=100) is hard-coded rather than configurable. 
+• No graphical output or advanced statistical analysis. 
+• Code style is concise; some single-line if statements omit braces for brevity.
+
+
+  Future Improvements
+
+• I could implement stronger input validation to prevent invalid user entries. 
+• I could add bounds checking inside Vector::operator[] for safer indexing. 
+• I could implement exception handling for file operations. 
+• I could allow solar filtering threshold to be configurable instead of fixed at 100. 
+• I could extend statistics to include daily or hourly aggregation if requirements change. 
+• I could standardise brace usage across all conditionals for stricter defensive programming. 
+• I could improve parsing robustness for unexpected CSV formats. 
+• I could optimise memory allocation strategy for very large datasets.
+
+Overall, the program meets all functional requirements of the assignment. The limitations identified do not affect required functionality but indicate areas where the system could be improved in a production-level environment.

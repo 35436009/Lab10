@@ -1,0 +1,180 @@
+# depslib dependency file v1.0
+1771570240 source:c:\users\asus\onedrive\desktop\murdoch\ict283 - data structures and abstractions\assignments\a1\ict283_assignment1_vernicefoong_35436009\date.cpp
+	"Date.h"
+
+1771570543 c:\users\asus\onedrive\desktop\murdoch\ict283 - data structures and abstractions\assignments\a1\ict283_assignment1_vernicefoong_35436009\date.h
+	<iostream>
+
+1771719742 source:c:\users\asus\onedrive\desktop\murdoch\ict283 - data structures and abstractions\assignments\a1\ict283_assignment1_vernicefoong_35436009\main.cpp
+	"Application.h"
+
+1772613348 c:\users\asus\onedrive\desktop\murdoch\ict283 - data structures and abstractions\assignments\a1\ict283_assignment1_vernicefoong_35436009\application.h
+	"WeatherLog.h"
+
+1771714176 c:\users\asus\onedrive\desktop\murdoch\ict283 - data structures and abstractions\assignments\a1\ict283_assignment1_vernicefoong_35436009\weatherlog.h
+	"Vector.h"
+	"WeatherRec.h"
+
+1772628846 c:\users\asus\onedrive\desktop\murdoch\ict283 - data structures and abstractions\assignments\a1\ict283_assignment1_vernicefoong_35436009\vector.h
+	<cassert>
+
+1772376634 c:\users\asus\onedrive\desktop\murdoch\ict283 - data structures and abstractions\assignments\a1\ict283_assignment1_vernicefoong_35436009\weatherrec.h
+	"Date.h"
+	"Time.h"
+
+1771570304 c:\users\asus\onedrive\desktop\murdoch\ict283 - data structures and abstractions\assignments\a1\ict283_assignment1_vernicefoong_35436009\time.h
+	<iostream>
+
+1771570343 source:c:\users\asus\onedrive\desktop\murdoch\ict283 - data structures and abstractions\assignments\a1\ict283_assignment1_vernicefoong_35436009\time.cpp
+	"Time.h"
+
+1772377014 source:c:\users\asus\onedrive\desktop\murdoch\ict283 - data structures and abstractions\assignments\a1\ict283_assignment1_vernicefoong_35436009\weatherrec.cpp
+	"WeatherRec.h"
+
+1772613119 source:c:\users\asus\onedrive\desktop\murdoch\ict283 - data structures and abstractions\assignments\a1\ict283_assignment1_vernicefoong_35436009\utilitystats.cpp
+	"UtilityStats.h"
+	<cmath>
+
+1771764577 c:\users\asus\onedrive\desktop\murdoch\ict283 - data structures and abstractions\assignments\a1\ict283_assignment1_vernicefoong_35436009\utilitystats.h
+	"WeatherLog.h"
+
+1771764647 source:c:\users\asus\onedrive\desktop\murdoch\ict283 - data structures and abstractions\assignments\a1\ict283_assignment1_vernicefoong_35436009\weatherlog.cpp
+	"WeatherLog.h"
+
+1772603138 source:c:\users\asus\onedrive\desktop\murdoch\ict283 - data structures and abstractions\assignments\a1\ict283_assignment1_vernicefoong_35436009\application.cpp
+	"Application.h"
+	"UtilityStats.h"
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+
+1772369237 source:c:\users\asus\onedrive\desktop\murdoch\ict283 - data structures and abstractions\assignments\a1\ict283_assignment1_vernicefoong_35436009\testdate.cpp
+	<iostream>
+	"Date.h"
+
+1772369235 source:c:\users\asus\onedrive\desktop\murdoch\ict283 - data structures and abstractions\assignments\a1\ict283_assignment1_vernicefoong_35436009\testtime.cpp
+	<iostream>
+	"Time.h"
+
+1771570242 source:c:\users\verni\desktop\murdoch\ict283 - data structures and abstractions\week 8\topic8-everything\practical\ict283_lab8_vernicefoong_35436009\date.cpp
+	"Date.h"
+
+1771570544 c:\users\verni\desktop\murdoch\ict283 - data structures and abstractions\week 8\topic8-everything\practical\ict283_lab8_vernicefoong_35436009\date.h
+	<iostream>
+
+1771570344 source:c:\users\verni\desktop\murdoch\ict283 - data structures and abstractions\week 8\topic8-everything\practical\ict283_lab8_vernicefoong_35436009\time.cpp
+	"Time.h"
+
+1771570306 c:\users\verni\desktop\murdoch\ict283 - data structures and abstractions\week 8\topic8-everything\practical\ict283_lab8_vernicefoong_35436009\time.h
+	<iostream>
+
+1772613120 source:c:\users\verni\desktop\murdoch\ict283 - data structures and abstractions\week 8\topic8-everything\practical\ict283_lab8_vernicefoong_35436009\utilitystats.cpp
+	"UtilityStats.h"
+	<cmath>
+
+1773334921 c:\users\verni\desktop\murdoch\ict283 - data structures and abstractions\week 8\topic8-everything\practical\ict283_lab8_vernicefoong_35436009\utilitystats.h
+	"WeatherLog.h"
+
+1773332916 c:\users\verni\desktop\murdoch\ict283 - data structures and abstractions\week 8\topic8-everything\practical\ict283_lab8_vernicefoong_35436009\weatherlog.h
+	"Vector.h"
+	"WeatherRec.h"
+
+1773305366 c:\users\verni\desktop\murdoch\ict283 - data structures and abstractions\week 8\topic8-everything\practical\ict283_lab8_vernicefoong_35436009\vector.h
+	<vector>
+
+1772376636 c:\users\verni\desktop\murdoch\ict283 - data structures and abstractions\week 8\topic8-everything\practical\ict283_lab8_vernicefoong_35436009\weatherrec.h
+	"Date.h"
+	"Time.h"
+
+1772377016 source:c:\users\verni\desktop\murdoch\ict283 - data structures and abstractions\week 8\topic8-everything\practical\ict283_lab8_vernicefoong_35436009\weatherrec.cpp
+	"WeatherRec.h"
+
+1773332691 source:c:\users\verni\desktop\murdoch\ict283 - data structures and abstractions\week 8\topic8-everything\practical\ict283_lab8_vernicefoong_35436009\application.cpp
+	"Application.h"
+	"UtilityStats.h"
+	<iostream>
+	<fstream>
+
+1773332808 c:\users\verni\desktop\murdoch\ict283 - data structures and abstractions\week 8\topic8-everything\practical\ict283_lab8_vernicefoong_35436009\application.h
+	"WeatherLog.h"
+
+1773343477 source:c:\users\verni\desktop\murdoch\ict283 - data structures and abstractions\week 8\topic8-everything\practical\ict283_lab8_vernicefoong_35436009\main.cpp
+	"Application.h"
+	"DataLoader.h"
+
+1773332803 c:\users\verni\desktop\murdoch\ict283 - data structures and abstractions\week 8\topic8-everything\practical\ict283_lab8_vernicefoong_35436009\dataloader.h
+	"WeatherLog.h"
+	<string>
+
+1773329468 source:c:\users\verni\desktop\murdoch\ict283 - data structures and abstractions\week 8\topic8-everything\practical\ict283_lab8_vernicefoong_35436009\weatherlog.cpp
+	"WeatherLog.h"
+
+1773345438 source:c:\users\verni\desktop\murdoch\ict283 - data structures and abstractions\week 8\topic8-everything\practical\ict283_lab8_vernicefoong_35436009\dataloader.cpp
+	"DataLoader.h"
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+
+1773417467 source:c:\users\verni\desktop\lab and a2\lab08_35436009_vf\application.cpp
+	"Application.h"
+	"UtilityStats.h"
+	<iostream>
+	<fstream>
+
+1773332808 c:\users\verni\desktop\lab and a2\lab08_35436009_vf\application.h
+	"WeatherLog.h"
+
+1773332916 c:\users\verni\desktop\lab and a2\lab08_35436009_vf\weatherlog.h
+	"Vector.h"
+	"WeatherRec.h"
+
+1773305366 c:\users\verni\desktop\lab and a2\lab08_35436009_vf\vector.h
+	<vector>
+
+1772376636 c:\users\verni\desktop\lab and a2\lab08_35436009_vf\weatherrec.h
+	"Date.h"
+	"Time.h"
+
+1771570544 c:\users\verni\desktop\lab and a2\lab08_35436009_vf\date.h
+	<iostream>
+
+1771570306 c:\users\verni\desktop\lab and a2\lab08_35436009_vf\time.h
+	<iostream>
+
+1773417467 c:\users\verni\desktop\lab and a2\lab08_35436009_vf\utilitystats.h
+	"WeatherLog.h"
+
+1773413178 source:c:\users\verni\desktop\lab and a2\lab08_35436009_vf\dataloader.cpp
+	"DataLoader.h"
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+
+1773332803 c:\users\verni\desktop\lab and a2\lab08_35436009_vf\dataloader.h
+	"WeatherLog.h"
+	<string>
+
+1771570242 source:c:\users\verni\desktop\lab and a2\lab08_35436009_vf\date.cpp
+	"Date.h"
+
+1773417467 source:c:\users\verni\desktop\lab and a2\lab08_35436009_vf\main.cpp
+	"Application.h"
+	"DataLoader.h"
+	<iostream>
+
+1771570344 source:c:\users\verni\desktop\lab and a2\lab08_35436009_vf\time.cpp
+	"Time.h"
+
+1773414948 source:c:\users\verni\desktop\lab and a2\lab08_35436009_vf\utilitystats.cpp
+	"UtilityStats.h"
+	<cmath>
+
+1773329468 source:c:\users\verni\desktop\lab and a2\lab08_35436009_vf\weatherlog.cpp
+	"WeatherLog.h"
+
+1772377016 source:c:\users\verni\desktop\lab and a2\lab08_35436009_vf\weatherrec.cpp
+	"WeatherRec.h"
+
